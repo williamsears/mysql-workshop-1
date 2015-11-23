@@ -1,0 +1,6 @@
+mysql-clt start
+mysql CREATE DATABASE decodemtl_test
+mysql CREATE DATABASE decodemtl_addressbook
+
+
+
